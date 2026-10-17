@@ -22,7 +22,7 @@ My approach: Learn the fundamentals, build something real, test it, and improve 
 
 🚀 Featured Projects
 <details open>
-<summary><strong>🏥 Perpetual Medtech — Medical Device QMS Platform</strong></summary>
+<summary><strong>🏥 Perpetual Medtech — Medical Device QMS Platform (Upcoming)</strong></summary>
 
 A platform concept focused on streamlining quality and compliance workflows for medical-device and clinical software teams.
 - Medical Device QMS: document control, training, CAPA, approvals, audit trails, and compliance workflows.
