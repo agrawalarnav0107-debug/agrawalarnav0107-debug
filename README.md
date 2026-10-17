@@ -65,7 +65,7 @@ Potential features: expense entry, categories, summaries, and visual spending br
 A learning project concept exploring computer vision for attendance workflows, with attention to reliability, privacy, and responsible handling of biometric data.
 </details>
 
-Some entries describe projects in progress or concepts being explored. Update this section as each repository becomes public and its features are implemented.
+Some entries describe projects in progress or concepts being explored. Will Update this section as each repository becomes public and its features are implemented.
 
 🧰 Tech Stack & Tools
 Languages
